@@ -1,3 +1,3 @@
 Deployed site:
 
-https://huggingface.co/spaces/sihanasaku/SentimentAnalysisApp
+https://huggingface.co/spaces/sihanasaku/PatentPrediction
